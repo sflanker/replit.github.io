@@ -1,7 +1,7 @@
 
 ## Project creation and submission
 
-From your team dashboard, create a new project. Select project **language, title, description, and whether this will be a group project**.  You'll be redirected to the IDE to add any comments, tests, and initial coding blocks you'd like your students to start from.
+From your team dashboard, create a new project. **Select project language, title, description, and whether this will be a group project.**  You'll be redirected to the IDE to add any comments, tests, and initial coding blocks you'd like your students to start from.
 
 <img style="max-width: 600px" src="/images/teamsForEducation/project-create.png" />
 
