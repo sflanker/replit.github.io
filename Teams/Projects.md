@@ -17,7 +17,7 @@ A modal appears, where you can toggle the project between "Published" and "Unpub
 
 **For group projects**, you must assign students into submission groups to collaborate.  Click "Auto Assign" to automatically assign all students into equal groups.  You can add and remove new groups, drag and drop students between groups, and search for students. 
 
-Click "Save" to finalize any changes, or "Cancel" to discard.
+Click "Save" to finalize any changes, or "Cancel" to discard changes.
 
 <img style="max-width: 600px" src="/images/teamsForEducation/project-publish.png" />
 
