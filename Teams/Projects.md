@@ -23,7 +23,7 @@ Click "Save" to finalize any changes, or "Cancel" to discard changes.
 
 ## Submitting
 
-When students have completed their work on the project, they click "Submit" in the IDE header, which will notify all teachers of their submission.
+When students have completed their work on the project, they click "Submit" in the IDE header, which will notify all teachers of their submission.  Students may only have access to one submission for each project.
 
 <img style="max-width: 100px" src="/images/teamsForEducation/project-submit.png" />
 
