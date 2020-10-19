@@ -2,7 +2,7 @@
 
 These are the [docs](https://docs.repl.it) for [Repl.it](https://repl.it) stored in markdown.
 
-This project also holds a simple webserver to render and serve the docs. You can run it locally with 
+This project also holds a simple webserver to render and serve the docs. You can run it locally with:
 
 ```
 npm i
