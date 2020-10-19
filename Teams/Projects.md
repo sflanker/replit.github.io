@@ -3,7 +3,7 @@
 
 From your team dashboard, create a new project.
 
-<img style="max-width: 400px" src="/images/teamsForEducation/project-create-button.png" />
+<img style="max-width: 350px" src="/images/teamsForEducation/project-create-button.png" />
 
 **Select project language, title, description, and whether this will be a group project.** You'll be redirected to the IDE to add any comments, tests, and initial coding blocks you'd like your students to start from.
 
