@@ -1,4 +1,17 @@
-# Playing Audio on Repl.it [BETA]
+# Playing Audio on Replit
+
+<!--
+There are two ways to enable audio in repls:
+
+## System-wide audio using PulseAudio
+Odds are that the gaming library or desktop application that most people are using already communicates with PulseAudio for audio playback, which makes this require no changes in most situations.
+
+This is an opt-in feature. To enable, create [a secret](https://docs.replit.com/repls/secret-keys) called `VNC_ENABLE_EXPERIMENTAL_AUDIO` with a value of `1` and restart the repl by running `kill 1` on the shell. Once that's done, a checkbox with headphones will appear in the lower right corner of the VNC output window.
+
+Due to restrictions in the browser security model, there needs to be an explicit user interaction when enabling the audio, which means that the checkbox needs to be manually toggled every time the repl is opened.
+
+## Using the audio service
+-->
 
 ###### Note that audio is currently only enabled for explorers. Learn to become an explorer [here].(https://repl.it/talk/announcements/Become-an-Explorer/6180)
 
