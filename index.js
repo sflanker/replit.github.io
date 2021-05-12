@@ -69,6 +69,6 @@ app.get('/:category/:slug', async (req, res) => {
 		});
 });
 
-app.listen(3000, () => {
+app.listen(3020, () => {
 	console.log('docs are running');
 });
